@@ -1,0 +1,21 @@
+/* src/components/Header.css */
+header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  /* src/components/MainContent.css */
+  main {
+    padding: 20px;
+  }
+  
+  /* src/components/Dashboard.css */
+  section {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
